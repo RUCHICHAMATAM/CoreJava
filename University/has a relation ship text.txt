@@ -1,0 +1,9 @@
+has-a relation ship is divided into two types :1.aggregation2.compostion
+composition :employee and address if we remove employee address has no identity
+address is associated with employee as identity.
+if employee deleted address has to be deleted.
+both depends on eachother. customer and his account relation is also an example.
+aggregation:employee and department relation if employee is removed no need to delete the department bcz department contains thousands of employees.
+department has its own identity.
+student and course relation.
+
